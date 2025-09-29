@@ -1,0 +1,172 @@
+# game
+game.title="[Game Title]"
+game.version="[Game Version]"
+game.author="[Game Author]"
+game.description="[Game Description]"
+
+# Main Menu
+## buttons
+game.menu.buttons.play="[Play_Button]"
+game.menu.buttons.continue="[Continue_Button]"
+game.menu.buttons.settings="[Settings_Button]"
+game.menu.buttons.credits="[Credits_Button]"
+game.menu.buttons.exit="[Exit_Button]"
+
+# Settings Menu
+## sections
+game.settings.sections.audio="[Audio_Settings_Section]"
+game.settings.sections.video="[Video_Settings_Section]"
+game.settings.sections.controls="[Controls_Settings_Section]"
+game.settings.sections.gameplay="[Gameplay_Settings_Section]"
+## options
+### audio
+#### music
+game.settings.sections.audio.music.volume="[Audio_Music_Volume_Option]"
+game.settings.sections.audio.music.mute="[Audio_Music_Mute_Option]"
+#### sfx
+game.settings.sections.audio.sfx.volume="[Audio_SFX_Volume_Option]"
+game.settings.sections.audio.sfx.mute="[Audio_SFX_Mute_Option]"
+### video
+#### resolution
+game.settings.sections.video.resolution="[Video_Resolution_Option]"
+#### fullscreen
+game.settings.sections.video.fullscreen="[Video_Fullscreen_Option]"
+#### vsync
+game.settings.sections.video.vsync="[Video_VSync_Option]"
+### controls
+#### keybindings
+##### keyboard
+game.settings.sections.controls.keybindings.keyboard="[Controls_Keyboard_Keybindings_Option]"
+##### mouse
+game.settings.sections.controls.keybindings.mouse="[Controls_Mouse_Keybindings_Option]"
+#### keyboard_layout
+game.settings.sections.controls.keyboard_layout="[Controls_Keyboard_Layout_Option]"
+#### keyboard_and_mouse
+game.settings.sections.controls.keyboard_and_mouse="[Controls_Keyboard_and_Mouse_Option]"
+### gameplay
+#### difficulty
+game.settings.sections.gameplay.difficulty="[Gameplay_Difficulty_Option]"
+#### subtitles
+game.settings.sections.gameplay.subtitles="[Gameplay_Subtitles_Option]"
+#### language
+game.settings.sections.gameplay.language="[Gameplay_Language_Option]"
+#### hints
+game.settings.sections.gameplay.hints="[Gameplay_Hints_Option]"
+#### auto_save
+game.settings.sections.gameplay.auto_save="[Gameplay_Auto_Save_Option]"
+#### tutorials
+game.settings.sections.gameplay.tutorials="[Gameplay_Tutorials_Option]"
+#### camera_sensitivity
+game.settings.sections.gameplay.camera_sensitivity="[Gameplay_Camera_Sensitivity_Option]"
+#### vibration
+game.settings.sections.gameplay.vibration="[Gameplay_Vibration_Option]"
+#### hud
+game.settings.sections.gameplay.hud="[Gameplay_HUD_Option]"
+#### crosshair
+game.settings.sections.gameplay.crosshair="[Gameplay_Crosshair_Option]"
+#### minimap
+game.settings.sections.gameplay.minimap="[Gameplay_Minimap_Option]"
+##### map_scale
+game.settings.sections.gameplay.minimap.map_scale="[Gameplay_Minimap_Map_Scale_Option]"
+##### map_rotation
+game.settings.sections.gameplay.minimap.map_rotation="[Gameplay_Minimap_Map_Rotation_Option]"
+##### map_opacity
+game.settings.sections.gameplay.minimap.map_opacity="[Gameplay_Minimap_Map_Opacity_Option]"
+##### map_position
+game.settings.sections.gameplay.minimap.map_position="[Gameplay_Minimap_Map_Position_Option]"
+#### minimap_icons
+game.settings.sections.gameplay.minimap.icons="[Gameplay_Minimap_Icons_Option]"
+##### map_filters
+game.settings.sections.gameplay.minimap.icons.map_filters="[Gameplay_Minimap_Icons_Map_Filters_Option]"
+##### icon_size
+game.settings.sections.gameplay.minimap.icons.icon_size="[Gameplay_Minimap_Icons_Icon_Size_Option]"
+##### icon_opacity
+game.settings.sections.gameplay.minimap.icons.icon_opacity="[Gameplay_Minimap_Icons_Icon_Opacity_Option]"
+##### icon_shape
+game.settings.sections.gameplay.minimap.icons.icon_shape="[Gameplay_Minimap_Icons_Icon_Shape_Option]"
+##### radar
+game.settings.sections.gameplay.minimap.radar="[Gameplay_Minimap_Radar_Option]"
+##### icon_color
+game.settings.sections.gameplay.minimap.icons.icon_color="[Gameplay_Minimap_Icons_Icon_Color_Option]"
+#### auto_aim
+game.settings.sections.gameplay.auto_aim="[Gameplay_Auto_Aim_Option]"
+#### Author Dialogue
+game.settings.sections.gameplay.author_dialogue="[Gameplay_Author_Dialogue_Option]"
+#### WAILA
+game.settings.sections.gameplay.waila="[Gameplay_WAILA_Option]"
+#### buttons
+game.settings.buttons.apply="[Settings_Apply_Button]"
+game.settings.buttons.cancel="[Settings_Cancel_Button]"
+game.settings.buttons.reset="[Settings_Reset_Button]"
+game.settings.buttons.back="[Settings_Back_Button]"
+
+# Pause Menu
+## buttons
+game.pause_menu.buttons.resume="[Pause_Resume_Button]"
+game.pause_menu.buttons.settings="[Pause_Settings_Button]"
+game.pause_menu.buttons.achievements="[Pause_Achievements_Button]"
+game.pause_menu.buttons.save="[Pause_Save_Button]"
+game.pause_menu.buttons.load="[Pause_Load_Button]"
+game.pause_menu.buttons.main_menu="[Pause_Main_Menu_Button]"
+game.pause_menu.buttons.save_and_quit="[Pause_Save_and_Quit_Button]"
+game.pause_menu.buttons.quit_without_saving="[Pause_Quit_Without_Saving_Button]"
+game.pause_menu.buttons.exit_to_desktop="[Pause_Exit_to_Desktop_Button]"
+
+# HUD
+## elements
+### stats
+game.hud.elements.stats.health="[HUD_Health_Element]"
+game.hud.elements.stats.stamina="[HUD_Stamina_Element]"
+game.hud.elements.stats.mana="[HUD_Mana_Element]"
+game.hud.elements.stats.experience="[HUD_Experience_Element]"
+game.hud.elements.stats.level="[HUD_Level_Element]"
+game.hud.elements.stats.currency="[HUD_Currency_Element]"
+game.hud.elements.stats.resources="[HUD_Resources_Element]"
+### minimap
+game.hud.elements.minimap="[HUD_Minimap_Element]"
+### objectives
+game.hud.elements.objectives="[HUD_Objectives_Element]"
+### notifications
+game.hud.elements.notifications="[HUD_Notifications_Element]"
+### inventory
+game.hud.elements.inventory="[HUD_Inventory_Element]"
+### abilities
+game.hud.elements.abilities="[HUD_Abilities_Element]"
+### chat
+game.hud.elements.chat="[HUD_Chat_Element]"
+### compass
+game.hud.elements.compass="[HUD_Compass_Element]"
+### crosshair
+game.hud.elements.crosshair="[HUD_Crosshair_Element]"
+### quest_tracker
+game.hud.elements.quest_tracker="[HUD_Quest_Tracker_Element]"
+### status_effects
+game.hud.elements.status_effects="[HUD_Status_Effects_Element]"
+### timers
+game.hud.elements.timers="[HUD_Timers_Element]"
+### score
+game.hud.elements.score="[HUD_Score_Element]"
+### team_info
+game.hud.elements.team_info="[HUD_Team_Info_Element]"
+### ping
+game.hud.elements.ping="[HUD_Ping_Element]"
+### fps
+game.hud.elements.fps="[HUD_FPS_Element]"
+### weapon_info
+game.hud.elements.weapon_info="[HUD_Weapon_Info_Element]"
+### ammo_count
+game.hud.elements.ammo_count="[HUD_Ammo_Count_Element]"
+### kill_feed
+game.hud.elements.kill_feed="[HUD_Kill_Feed_Element]"
+### crafting
+game.hud.elements.crafting="[HUD_Crafting_Element]"
+### hotbar
+game.hud.elements.hotbar="[HUD_Hotbar_Element]"
+### party_status
+game.hud.elements.party_status="[HUD_Party_Status_Element]"
+### voice_chat
+game.hud.elements.voice_chat="[HUD_Voice_Chat_Element]"
+### emotes
+game.hud.elements.emotes="[HUD_Emotes_Element]"
+### WAILA
+game.hud.elements.waila="[HUD_WAILA_Element]"
