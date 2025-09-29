@@ -1,0 +1,73 @@
+# About Crafting Clicker
+Crafting Clicker is an incremental game where players gather resources, craft items, and upgrade their abilities to progress through various levels. The game features a simple yet addictive clicker mechanic, allowing players to click on resources to collect them and use them for crafting new items. With a variety of upgrades and achievements to unlock, players are encouraged to optimize their resource management and crafting strategies to become the ultimate crafter. The game also includes a storyline that unfolds as players advance, adding depth and engagement to the gameplay experience. As players progress, they can explore new crafting recipes, unlock special items, and face challenges that test their skills. Whether you're a casual player looking for a fun way to pass the time or a dedicated gamer seeking a complex crafting system, Crafting Clicker offers something for everyone. Enjoy the journey of crafting and see how far you can go in this exciting incremental game!
+
+## Features
+- Simple and addictive clicker mechanics
+- Resource gathering and management
+- Crafting system with a variety of items
+- Upgrades and achievements to unlock
+- Engaging storyline with quests and challenges
+- Special items and recipes to discover
+- Optimizable strategies for resource and crafting efficiency
+- Dungeons and boss battles for added excitement
+- Secret items and hidden features to explore
+
+## Credits
+- Game Design: Dramora9879
+- Programming: Dramora9879
+- Art and Graphics: Dramora9879
+- Music and Sound Effects: Dramora9879
+- Testing and Feedback: []
+- Special Thanks: []
+- Community Support: []
+- Inspiration: []
+- Tools and Software: VSCode, GitHub
+- Libraries and Frameworks: pygame, pygame-menu-ce, requests, timer, json, os, random, math, time, threading
+- Additional Resources: []
+- Beta Testers: []
+- Contributors: []
+- Localization:
+    # Languages Supported
+    - English: True
+    - Spanish: False
+    - French: False
+    - German: False
+    - Chinese: False
+    - Japanese: False
+    - Russian: False
+    - Italian: False
+    - Portuguese: False
+    - Korean: False
+    - Arabic: False
+    - Dutch: False
+    - Swedish: False
+    - Danish: False
+    - Norwegian: False
+    - Finnish: False
+    - Polish: False
+    - Turkish: False
+    - Greek: False
+    - Hungarian: False
+    - Czech: False
+    - Romanian: False
+    - more...: False
+- Version: 0.0.01-Alpha
+- Release Date: Still in development
+- Website: [https://www.github.com/Dramora9879/Crafting-Clicker](https://www.github.com/Dramora9879/Crafting-Clicker)
+- Contact: [Dramora9879](https://www.github.com/Dramora9879)
+- License: MIT License
+- Privacy Policy: [Link to Privacy Policy](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Privacy_Policy.md)
+- Terms of Service: [Link to Terms of Service](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Terms_of_Service.md)
+- Community Guidelines: [Link to Community Guidelines](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Community_Guidelines.md)
+- Support: [Link to Support Page](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Support.md)
+- FAQ: [Link to FAQ](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/FAQ.md)
+- Bug Reporting: [Link to Bug Reporting](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Bug_Reporting.md)
+- Feature Requests: [Link to Feature Requests](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Feature_Requests.md)
+- Changelog: [Link to Changelog](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Changelog.md)
+- Roadmap: [Link to Roadmap](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Roadmap.md)
+- Acknowledgements: [Link to Acknowledgements](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Acknowledgements.md)
+- Future Plans: [Link to Future Plans](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Future_Plans.md)
+- Known Issues: [Link to Known Issues](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Known_Issues.md)
+- Community Contributions: [Link to Community Contributions](https://www.github.com/Dramora9879/Crafting-Clicker/blob/main/Community_Contributions.md)
+- Social Media: [Link to Social Media](https://www.github.com/Dramora9879/Crafting-Clicker)
+- wiki: [Link to Wiki](https://www.github.com/Dramora9879/Crafting-Clicker/wiki)
