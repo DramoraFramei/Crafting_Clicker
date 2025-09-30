@@ -1,0 +1,7 @@
+# Requirements for Crafting Clicker
+pygame==2.6.1
+pygame-menu-ce==4.5.4
+timer==0.3.0
+pygame-ce==2.5.5
+pytweening==1.2.0
+pygments==2.19.2
