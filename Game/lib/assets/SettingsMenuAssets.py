@@ -4,7 +4,7 @@
 # UI.
 import os
 import pygame
-from pygame.locals import *
+
 # Define the path to the assets directory
 ASSETS_DIR = os.path.join(os.path.dirname(__file__), '../../assets/settings_menu')
 
